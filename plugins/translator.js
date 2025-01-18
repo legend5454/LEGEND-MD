@@ -25,7 +25,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const translation = response.data.responseData.translatedText;
 
         const translationMessage = `
-🌍 *DROVE MD TRANSLATION* 🌍
+🌍 *LEGEND MD TRANSLATION* 🌍
 
 🔤 *Original*: ${textToTranslate}
 
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, q, reply }) => {
 
 🌐 *Language*: ${targetLang.toUpperCase()}
 
-*DROVE-MD CREATION*`;
+*LEGEND-MD CREATION*`;
 
         return reply(translationMessage);
     } catch (e) {
