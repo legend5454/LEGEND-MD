@@ -108,16 +108,3 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </div>
 
-
-### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐃𝐑𝐎𝐕𝐄-𝐌𝐃-𝐁𝐎𝐓`]
-- 🪄 Arabic = ar 
-- 🪄 Urdu = ur
-- 🪄 English Global = en
-- 🪄 Bahasa Indonesia = id
-- 🪄 Portuguese = pt
-- 🪄 Spanish = es
-
-<div align="left">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</div>
