@@ -1,7 +1,7 @@
 {
-  "name": "DROVE-MD",
-  "description": "ᴍᴜʟᴛɪᴅᴇᴠɪᴠᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴡᴀʟᴋ-ᴅʀᴏᴠᴇ",
-  "logo": "https://i.ibb.co/hWs9M8n/Manul-Ofc-X.jpg",
+  "name": "LEGEND-MD",
+  "description": "ᴍᴜʟᴛɪᴅᴇᴠɪᴠᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Mr.Legend",
+  "logo": "https://qu.ax/WkggJ.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/ZgxHf6x/Manul-Ofc-X.jpg"
+      "value": "https://qu.ax/WkggJ.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -119,7 +119,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "ᴅʀᴏᴠᴇ-ᴍᴅ"
+      "value": "𝕃𝕖𝕘𝕖𝕟𝕕-𝕄𝔻"
     }, 
 
     "HEART_REACT": {
@@ -136,12 +136,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴡᴀʟᴋ-ᴅʀᴏᴠᴇ*"
+      "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴍʀ.ʟᴇɢᴇɴᴅ*"
     }, 
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 𝑺𝒆𝒆𝒏 𝑱𝒖𝒔𝒕 𝑵𝒐𝒘 𝑩𝒚 𝑫𝒓𝒐𝒗𝒆-𝒎𝒅"
+      "value": "𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 𝑺𝒆𝒆𝒏 𝑱𝒖𝒔𝒕 𝑵𝒐𝒘 𝑩𝒚 𝑳𝒆𝒈𝒆𝒏𝒅-𝒎𝒅"
     }
 
 
