@@ -13,26 +13,26 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *𝙼𝚛 𝚆𝚊𝚕𝚔-𝙳𝚛𝚘𝚟𝚎 (𝓕𝓪𝓻𝓱𝓪𝓷 𝓐𝓵𝓲)*
+*|* *Mr.Legend*
 
-> *DROVE-MD REPO:*
-*|* *https://github.com/FarhanAli690/DROVE-MD*
+> *LEGEND-MD REPO:*
+*|* *https://github.com/legend5454/LEGEND-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029Vank3vaLikg5ldoNdd0U*
+*|* *https://whatsapp.com/channel/0029Vb33GRMEVccONRVxUR2q*
 *╰──────────────●●►*
 
-> *➥POWERED BY: WALK-DROVE*
+> *➥POWERED BY: Mr.Legend*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
     mentionedJid: [ '' ],
     groupMentions: [],
     forwardingScore: 999,
-    isForwarded: true,
+    isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363328183826270@newsletter',
-      newsletterName: "♛︎𝗪𝗮𝗹𝗸-𝗗𝗿𝗼𝘃𝗲࿐",
+      newsletterName: "Legend",
       serverMessageId: 999
     },
 externalAdReply: { 
