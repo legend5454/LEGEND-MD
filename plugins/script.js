@@ -36,7 +36,7 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'DROVE MD',
+title: '𝙻𝙴𝙶𝙴𝙽𝙳-𝙼𝙳',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/legend5454/LEGEND-MD" ,
