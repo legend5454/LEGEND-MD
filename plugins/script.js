@@ -31,16 +31,16 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363328183826270@newsletter',
-      newsletterName: "Legend",
+      newsletterJid: '120363391326900797@newsletter',
+      newsletterName: "🇵🇰Legend-MD🔥",
       serverMessageId: 999
     },
 externalAdReply: { 
 title: 'DROVE MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/FarhanAli690/DROVE-MD" ,
-thumbnailUrl: "https://i.ibb.co/Zdjh4Qs/IMG-20241113-WA0019.jpg" ,
+sourceUrl: "https://github.com/legend5454/LEGEND-MD" ,
+thumbnailUrl: "https://qu.ax/WkggJ.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
