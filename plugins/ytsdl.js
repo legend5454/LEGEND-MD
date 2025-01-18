@@ -22,7 +22,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
 
         let yts = yt.results[0];
 
-        let ytmsg = `╭━━━〔 *DROVE-MD* 〕━━━┈⊷
+        let ytmsg = `╭━━━〔 *LEGEND-MD* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *VIDEO DOWNLOADER*
 ┃▸└───────────···๏
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
         await conn.sendMessage(from, {
             video: { url: ytdl.download.url },
             mimetype: "video/mp4",
-            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ Walk-Drove ♡*`
+            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mr.Legend ♡*`
         }, { quoted: mek });
     } catch (e) {
         console.log(e);
@@ -76,7 +76,7 @@ if(yt.results.length < 1) return reply("Results is not found !")
 let yts = yt.results[0]  
 const ytdl = await ytmp3(yts.url)
 		
-let ytmsg = `╭━━━〔 *DROVE-MD* 〕━━━┈⊷
+let ytmsg = `╭━━━〔 *LEGEND-MD* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ┃▸└───────────···๏
@@ -88,7 +88,7 @@ let ytmsg = `╭━━━〔 *DROVE-MD* 〕━━━┈⊷
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ Walk-Drove ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ Mr.Legend ♡*`
 // SEND DETAILS
 await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
 
