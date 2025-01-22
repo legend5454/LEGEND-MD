@@ -25,7 +25,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 DROVE MD 🎬*
+*🎬 LEGEND MD 🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
@@ -46,7 +46,7 @@ cmd({
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `${movieInfo}\n> UMAR`
+            caption: `${movieInfo}\n> LEGEND-MD`
         }, { quoted: mek });
     } catch (e) {
         console.error(e);
