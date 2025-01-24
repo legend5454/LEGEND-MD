@@ -44,7 +44,7 @@ cmd({
       ptt: false
     }, { quoted: mek });
 
-    reply(`✅ *${title}* /n> Successfully Downloaded By PANHWAR-MD`);
+    reply(`✅ *${title}* /n> Successfully Downloaded By LEGEND-MD🇵🇰`);
   } catch (error) {
     console.error(error);
     reply("❌ An error occurred while processing your request.");
